@@ -1,0 +1,54 @@
+# KiCad generic files
+*.bak
+*.tmp
+*.status
+*.xml
+*.json
+*.yaml
+*.kicad_prl
+
+# Backup & autosave files
+_autosave*
+*-backup*
+
+# KiCad PCB and schematic files (generated data)
+*.net
+*.bck
+*.sch-bak
+*.kicad_pcb-bak
+
+# KiCad project-specific files
+*.kicad_sch-bak
+*.kicad_pcb-bak
+fp-info-cache
+sym-lib-table.bak
+
+# Gerber and fabrication outputs
+*.gbr
+*.drl
+*.gbl
+*.gbo
+*.gbp
+*.gtl
+*.gto
+*.gtp
+*.gts
+*.gbs
+*.d356
+*.ipc
+*.pos
+
+# Simulation and SPICE files
+*.cir
+*.spice
+*.raw
+*.log
+*.plt
+
+# 3D model cache
+*.step
+*.wrl
+
+# Library cache files
+*-cache.lib
+*-rescue.lib
