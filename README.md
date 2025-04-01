@@ -13,6 +13,6 @@ It's customizable, and I used it to build a mask for Carnival.
   
 ![Carnival2](images/carnival1.jpg)  
   
-[See this video](https://youtube.com/@stsambin?si=Kpx_X1FOtqn-uVAn)
+[See this video](https://www.youtube.com/watch?v=xuSfuvD5daY)
 
 [and this video](https://youtu.be/nWELFq1WQ_s)
