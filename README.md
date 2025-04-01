@@ -16,3 +16,6 @@ It's customizable, and I used it to build a mask for Carnival.
 [See this video](https://www.youtube.com/watch?v=xuSfuvD5daY)
 
 [and this video](https://youtu.be/nWELFq1WQ_s)
+
+
+![Carnival3](images/carnival2.jpg)  
